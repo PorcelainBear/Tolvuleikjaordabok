@@ -20,13 +20,24 @@
             "is" : ["hýsir"],
             "is-plural" : ["hýsar"],
         },
-
         {
             "type" : "noun",
             "tags" : [],
             "en" : ["Streamer"],
             "is" : ["Streymari"],
             "is-plural" : ["Streymarar"]
-        }
+        },
+        {
+            "type" : "verb",
+            "tags" : [],
+            "en" : ["join"],
+            "is" : ["tengjast", "ganga til liðs við", "ganga í"]
+        },
+                {
+            "type" : "verb",
+            "tags" : [],
+            "en" : ["join"],
+            "is" : ["tengjast", "ganga til liðs við", "ganga í"]
+        },
     ]    
 }
