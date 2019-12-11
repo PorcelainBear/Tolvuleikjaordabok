@@ -1,0 +1,32 @@
+{
+    "data" : [
+        {
+            "type" : "noun",
+            "tags" : ["Game Genre"],
+            "en" : ["Strategy"],
+            "is" : ["Herkænsku-", "Kænsku-", "Bragðvísi-", "Klækja-", "Klókinda-"]
+        },
+        {
+            "type" : "noun",
+            "tags" : [],
+            "en" : ["lobby"],
+            "is" : ["anddyri", "fordyri", "forsalur"],
+            "is-plural" : ["anddyri", "fordyri", "forsalir"],
+        },
+        {
+            "type" : "noun",
+            "tags" : [],
+            "en" : ["host"],
+            "is" : ["hýsir"],
+            "is-plural" : ["hýsar"],
+        },
+
+        {
+            "type" : "noun",
+            "tags" : [],
+            "en" : ["Streamer"],
+            "is" : ["Streymari"],
+            "is-plural" : ["Streymarar"]
+        }
+    ]    
+}
