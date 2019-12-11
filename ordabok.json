@@ -1,43 +1,57 @@
 {
-    "data" : [
-        {
-            "type" : "noun",
-            "tags" : ["Game Genre"],
-            "en" : ["Strategy"],
-            "is" : ["Herkænsku-", "Kænsku-", "Bragðvísi-", "Klækja-", "Klókinda-"]
-        },
-        {
-            "type" : "noun",
-            "tags" : [],
-            "en" : ["lobby"],
-            "is" : ["anddyri", "fordyri", "forsalur"],
-            "is-plural" : ["anddyri", "fordyri", "forsalir"],
-        },
-        {
-            "type" : "noun",
-            "tags" : [],
-            "en" : ["host"],
-            "is" : ["hýsir"],
-            "is-plural" : ["hýsar"],
-        },
-        {
-            "type" : "noun",
-            "tags" : [],
-            "en" : ["Streamer"],
-            "is" : ["Streymari"],
-            "is-plural" : ["Streymarar"]
-        },
-        {
-            "type" : "verb",
-            "tags" : [],
-            "en" : ["join"],
-            "is" : ["tengjast", "ganga til liðs við", "ganga í"]
-        },
-                {
-            "type" : "verb",
-            "tags" : [],
-            "en" : ["join"],
-            "is" : ["tengjast", "ganga til liðs við", "ganga í"]
-        },
-    ]    
+    "dictionary" :
+    {
+        "version": 0.1,
+        "words" :
+        [
+            {
+                "type" : "noun",
+                "tags" : ["customization"],
+                "en" : ["skin"],
+                "is" : ["hamur"]
+            },
+            {
+                "type" : "noun",
+                "tags" : ["Game Genre"],
+                "en" : ["simulation"],
+                "is" : ["herkænsku-"]
+            },
+            {
+                "type" : "noun",
+                "tags" : ["Game Genre"],
+                "en" : ["strategy"],
+                "is" : ["herkænsku-", "kænsku-", "bragðvísi-", "klækja-", "klókinda-"]
+            },
+            {
+                "type" : "noun",
+                "tags" : ["online"],
+                "en" : ["lobby"],
+                "is" : ["anddyri", "fordyri", "forsalur", "biðsalur"],
+            },
+            {
+                "type" : "noun",
+                "tags" : [],
+                "en" : ["host"],
+                "is" : ["hýsir"],
+            },
+            {
+                "type" : "noun",
+                "tags" : [],
+                "en" : ["streamer"],
+                "is" : ["streymari"],
+            },
+            {
+                "type" : "verb",
+                "tags" : [],
+                "en" : ["join"],
+                "is" : ["tengjast", "ganga til liðs við", "ganga í"]
+            },
+            {
+                "type" : "noun",
+                "tags" : [],
+                "en" : ["emoji"],
+                "is" : ["tjámerki"]
+            }
+        ]    
+    }
 }
